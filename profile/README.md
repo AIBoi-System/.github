@@ -12,7 +12,7 @@
 
 ---
 
-**Status do Projeto:** 🚀 Desenvolvimento Ativo (2026)
+**Status do Projeto:** Desenvolvimento Ativo (2026)
 
 </div>
 
