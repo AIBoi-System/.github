@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐮 AiBoi — Gestão para Pecuária 4.0
+# 🐮 AgroFence — Gestão para Pecuária 4.0
 
 ### *Digitalização do manejo bovino com dados, reprodução, sanidade e gestão de propriedades.*
 
